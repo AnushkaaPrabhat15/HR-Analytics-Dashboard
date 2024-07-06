@@ -1,7 +1,7 @@
 # HR Analytics Dashboard
 
 ## Overview
-
+ 
 This repository contains a Tableau Public dashboard for analyzing employee attrition data. The goal of this project is to identify key factors contributing to the attrition rate and provide insights to help reduce it.
 
 ### Dashboard Link : https://public.tableau.com/app/profile/anushkaa.prabhat/viz/HRAnalysticsDashboard_17181700004240/HRANALYTICSDASHBOARD?publish=yes
